@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "UNoah_Sing_Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "UNoah_Sing_Right"
+		},
+		{
+			"offsets": [
+				-2,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "UNoah_Idle_bonito"
+		},
+		{
+			"offsets": [
+				120,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "UNoah_Sing_Down"
+		},
+		{
+			"offsets": [
+				4,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UNoah_Sing_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UNoah_uniform",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Noah-Uniform",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		32,
+		110
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

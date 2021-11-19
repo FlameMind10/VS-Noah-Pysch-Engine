@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				61,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Noah Note Left"
+		},
+		{
+			"offsets": [
+				0,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Noah Note Right"
+		},
+		{
+			"offsets": [
+				-2,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Noah Idle"
+		},
+		{
+			"offsets": [
+				10,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Noah Note Down"
+		},
+		{
+			"offsets": [
+				24,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Noah Note Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Noah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Noah",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		32,
+		110
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

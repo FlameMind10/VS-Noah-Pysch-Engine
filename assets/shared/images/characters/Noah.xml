@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Noah.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Noah Note Down0000" x="0" y="0" width="381" height="535" frameX="0" frameY="-8" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0001" x="0" y="0" width="381" height="535" frameX="0" frameY="-8" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0002" x="381" y="0" width="361" height="543" frameX="-10" frameY="0" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0003" x="381" y="0" width="361" height="543" frameX="-10" frameY="0" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0004" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0005" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0006" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0007" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0008" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0009" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0010" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0011" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0012" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Down0013" x="742" y="0" width="367" height="541" frameX="-7" frameY="-2" frameWidth="381" frameHeight="543"/>
+	<SubTexture name="Noah Note Left0000" x="1109" y="0" width="374" height="595" frameX="0" frameY="-1" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0001" x="1109" y="0" width="374" height="595" frameX="0" frameY="-1" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0002" x="1483" y="0" width="360" height="596" frameX="-16" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0003" x="1483" y="0" width="360" height="596" frameX="-16" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0004" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0005" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0006" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0007" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0008" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0009" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0010" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0011" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0012" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Left0013" x="1843" y="0" width="364" height="596" frameX="-11" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="Noah Note Right0000" x="2207" y="0" width="419" height="570" frameX="0" frameY="-3" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0001" x="2207" y="0" width="419" height="570" frameX="0" frameY="-3" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0002" x="2626" y="0" width="413" height="573" frameX="0" frameY="0" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0003" x="2626" y="0" width="413" height="573" frameX="0" frameY="0" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0004" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0005" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0006" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0007" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0008" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0009" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0010" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0011" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0012" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Right0013" x="3039" y="0" width="414" height="571" frameX="0" frameY="-2" frameWidth="419" frameHeight="573"/>
+	<SubTexture name="Noah Note Up0000" x="3453" y="0" width="305" height="628" frameX="-17" frameY="0" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0001" x="3453" y="0" width="305" height="628" frameX="-17" frameY="0" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0002" x="3758" y="0" width="334" height="615" frameX="0" frameY="-13" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0003" x="3758" y="0" width="334" height="615" frameX="0" frameY="-13" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0004" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0005" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0006" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0007" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0008" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0009" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0010" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0011" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0012" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Note Up0013" x="0" y="628" width="319" height="619" frameX="-8" frameY="-9" frameWidth="334" frameHeight="628"/>
+	<SubTexture name="Noah Idle0000" x="319" y="628" width="323" height="593" frameX="0" frameY="-13" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0001" x="319" y="628" width="323" height="593" frameX="0" frameY="-13" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0002" x="642" y="628" width="323" height="598" frameX="0" frameY="-8" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0003" x="642" y="628" width="323" height="598" frameX="0" frameY="-8" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0004" x="965" y="628" width="323" height="602" frameX="0" frameY="-4" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0005" x="965" y="628" width="323" height="602" frameX="0" frameY="-4" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0006" x="1288" y="628" width="323" height="605" frameX="0" frameY="-1" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0007" x="1288" y="628" width="323" height="605" frameX="0" frameY="-1" frameWidth="323" frameHeight="606"/>
+	<SubTexture name="Noah Idle0008" x="1611" y="628" width="323" height="606"/>
+	<SubTexture name="Noah Idle0009" x="1611" y="628" width="323" height="606"/>
+	<SubTexture name="Noah Idle0010" x="1611" y="628" width="323" height="606"/>
+	<SubTexture name="Noah Idle0011" x="1611" y="628" width="323" height="606"/>
+	<SubTexture name="Noah Idle0012" x="1611" y="628" width="323" height="606"/>
+	<SubTexture name="Noah Idle0013" x="1611" y="628" width="323" height="606"/>
+</TextureAtlas>

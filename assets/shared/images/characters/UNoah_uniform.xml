@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UNoah_uniform.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/producUNoah/animate.html -->
+	<SubTexture name="UNoah_Sing_Down0000" x="0" y="0" width="510" height="577" frameX="-6" frameY="-7" frameWidth="519" frameHeight="584"/>
+	<SubTexture name="UNoah_Sing_Down0001" x="0" y="0" width="510" height="577" frameX="-6" frameY="-7" frameWidth="519" frameHeight="584"/>
+	<SubTexture name="UNoah_Sing_Down0002" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0003" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0004" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0005" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0006" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0007" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0008" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0009" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0010" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0011" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0012" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Down0013" x="510" y="0" width="519" height="584"/>
+	<SubTexture name="UNoah_Sing_Left0000" x="1029" y="0" width="358" height="648" frameX="0" frameY="0" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0001" x="1029" y="0" width="358" height="648" frameX="0" frameY="0" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0002" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0003" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0004" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0005" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0006" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0007" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0008" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0009" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0010" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0011" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0012" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Left0013" x="1387" y="0" width="351" height="647" frameX="-8" frameY="-1" frameWidth="359" frameHeight="648"/>
+	<SubTexture name="UNoah_Sing_Right0000" x="0" y="648" width="447" height="611" frameX="-1" frameY="-2" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0001" x="0" y="648" width="447" height="611" frameX="-1" frameY="-2" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0002" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0003" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0004" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0005" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0006" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0007" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0008" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0009" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0010" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0011" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0012" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_Right0013" x="447" y="648" width="444" height="613" frameX="0" frameY="0" frameWidth="448" frameHeight="613"/>
+	<SubTexture name="UNoah_Sing_up0000" x="891" y="648" width="393" height="655"/>
+	<SubTexture name="UNoah_Sing_up0001" x="891" y="648" width="393" height="655"/>
+	<SubTexture name="UNoah_Sing_up0002" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0003" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0004" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0005" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0006" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0007" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0008" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0009" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0010" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0011" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0012" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Sing_up0013" x="1284" y="648" width="386" height="650" frameX="0" frameY="-5" frameWidth="393" frameHeight="655"/>
+	<SubTexture name="UNoah_Idle_bonito0000" x="0" y="1303" width="414" height="632" frameX="0" frameY="-13" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0001" x="0" y="1303" width="414" height="632" frameX="0" frameY="-13" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0002" x="414" y="1303" width="409" height="634" frameX="-2" frameY="-11" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0003" x="414" y="1303" width="409" height="634" frameX="-2" frameY="-11" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0004" x="823" y="1303" width="349" height="639" frameX="-9" frameY="-6" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0005" x="823" y="1303" width="349" height="639" frameX="-9" frameY="-6" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0006" x="1172" y="1303" width="356" height="644" frameX="-9" frameY="-1" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0007" x="1172" y="1303" width="356" height="644" frameX="-9" frameY="-1" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0008" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0009" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0010" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0011" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0012" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+	<SubTexture name="UNoah_Idle_bonito0013" x="1528" y="1303" width="357" height="645" frameX="-10" frameY="0" frameWidth="414" frameHeight="645"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Noah Idle",
+	"image": "Menu_Noah",
+	"position": [
+		61,
+		123
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Noah Idle"
+}
